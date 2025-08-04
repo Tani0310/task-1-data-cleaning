@@ -1,0 +1,201 @@
+Customer Name ,Gender,Country ,Purchase Date,Amount 
+,m,India,2023/03/01,400.0
+Charlie,MALE,USA,2023/03/01,
+Charlie,F,Uk,01-02-2023,
+Jack,female,USA,"March 5, 2023",
+Eva,FEMALE,UK,2023/03/01,400.0
+Alice,,UK,"March 5, 2023",300.0
+Ivy,MALE,canada,,250.0
+Ivy,FEMALE,Canada,"March 5, 2023",400.0
+David,female,india,10/04/2023,300.0
+Alice,FEMALE,India,"March 5, 2023",350.0
+Ivy,m,India,2023/03/01,250.0
+Hannah,F,India,2023-04-10,400.0
+Hannah,f,UK,2023-04-10,400.0
+Jack,F,USA,2023/03/01,300.0
+Jack,m,U.S.A,10/04/2023,250.0
+,F,UK,"March 5, 2023",
+Hannah,female,india,2023-04-10,400.0
+Eva,M,India,11-04-2023,400.0
+Frank,male,USA,"March 5, 2023",400.0
+Grace,female,UK,2023/03/01,
+Eva,m,UK,11-04-2023,
+Charlie,m,india,2023/03/01,300.0
+,MALE,USA,01-02-2023,250.0
+Charlie,f,UK,,300.0
+Ivy,m,Uk,01-02-2023,400.0
+Jack,m,canada,"March 5, 2023",250.0
+Frank,m,,"March 5, 2023",400.0
+,m,,2023-04-10,
+Ivy,MALE,canada,"March 5, 2023",350.0
+Grace,FEMALE,canada,"March 5, 2023",350.0
+Bob,M,Canada,10/04/2023,350.0
+Ivy,female,Uk,10/04/2023,250.0
+Jack,M,U.S.A,"March 5, 2023",300.0
+,m,Uk,01-02-2023,400.0
+Hannah,MALE,Uk,2023/03/01,350.0
+Ivy,M,,"March 5, 2023",250.0
+,MALE,Canada,"March 5, 2023",250.0
+Jack,male,India,10/04/2023,
+Eva,male,India,2023-04-10,300.0
+David,F,Uk,"March 5, 2023",
+Eva,female,india,,400.0
+Eva,male,Canada,2023/03/01,250.0
+Ivy,male,Uk,,300.0
+Eva,FEMALE,Uk,"March 5, 2023",400.0
+,male,india,11-04-2023,400.0
+Bob,m,Canada,2023/03/01,
+Hannah,MALE,UK,10/04/2023,
+Hannah,f,USA,01-02-2023,350.0
+Frank,f,USA,10/04/2023,250.0
+Charlie,m,U.S.A,01-02-2023,300.0
+Charlie,male,India,2023-04-10,300.0
+Grace,F,USA,11-04-2023,250.0
+Bob,F,Uk,2023/03/01,300.0
+Alice,MALE,UK,11-04-2023,300.0
+Alice,MALE,india,2023-04-10,350.0
+Ivy,f,Canada,10/04/2023,300.0
+David,m,India,"March 5, 2023",250.0
+Bob,f,USA,11-04-2023,350.0
+Hannah,female,USA,11-04-2023,400.0
+Hannah,M,Canada,10/04/2023,
+Jack,FEMALE,canada,2023/03/01,400.0
+Frank,m,UK,2023-04-10,350.0
+Alice,MALE,Canada,10/04/2023,
+Frank,MALE,india,2023-04-10,250.0
+Jack,M,Canada,2023-04-10,
+Bob,MALE,Uk,01-02-2023,
+Alice,male,UK,01-02-2023,
+Ivy,female,U.S.A,2023/03/01,400.0
+,male,Uk,,300.0
+Grace,m,Uk,2023-04-10,350.0
+Alice,FEMALE,U.S.A,2023-04-10,300.0
+Frank,MALE,,2023-04-10,250.0
+Ivy,M,canada,10/04/2023,300.0
+Alice,MALE,,11-04-2023,350.0
+Bob,M,india,01-02-2023,350.0
+Charlie,MALE,India,2023-04-10,350.0
+Charlie,male,Uk,2023-04-10,400.0
+Eva,MALE,U.S.A,11-04-2023,300.0
+Grace,MALE,Uk,2023-04-10,400.0
+Charlie,,canada,2023-04-10,300.0
+Frank,FEMALE,U.S.A,2023-04-10,
+Grace,FEMALE,Uk,"March 5, 2023",250.0
+David,m,Canada,2023-04-10,250.0
+Grace,MALE,USA,11-04-2023,350.0
+Jack,MALE,,2023-04-10,300.0
+Grace,female,canada,"March 5, 2023",400.0
+Frank,female,USA,01-02-2023,250.0
+Ivy,MALE,UK,2023/03/01,250.0
+Grace,female,UK,11-04-2023,250.0
+,FEMALE,India,01-02-2023,350.0
+Frank,M,U.S.A,"March 5, 2023",350.0
+,male,U.S.A,10/04/2023,400.0
+David,FEMALE,canada,11-04-2023,250.0
+David,FEMALE,Uk,,400.0
+Grace,MALE,India,"March 5, 2023",400.0
+Ivy,m,UK,11-04-2023,
+Bob,m,UK,11-04-2023,
+Frank,M,Uk,2023-04-10,350.0
+Ivy,MALE,UK,"March 5, 2023",300.0
+Hannah,F,Uk,"March 5, 2023",350.0
+Jack,female,Canada,01-02-2023,
+Alice,f,Uk,11-04-2023,400.0
+Jack,MALE,Uk,2023-04-10,350.0
+David,male,Canada,"March 5, 2023",300.0
+Frank,male,india,01-02-2023,400.0
+Bob,FEMALE,Canada,11-04-2023,300.0
+,FEMALE,india,"March 5, 2023",350.0
+Grace,F,canada,01-02-2023,
+Charlie,female,canada,2023/03/01,300.0
+Bob,F,canada,2023-04-10,400.0
+Hannah,M,U.S.A,01-02-2023,
+David,F,Uk,2023/03/01,400.0
+Frank,FEMALE,U.S.A,01-02-2023,400.0
+Ivy,MALE,U.S.A,,250.0
+Charlie,F,USA,11-04-2023,300.0
+Charlie,male,India,"March 5, 2023",
+Charlie,f,canada,11-04-2023,300.0
+Bob,FEMALE,UK,2023/03/01,250.0
+Alice,m,Canada,10/04/2023,250.0
+Alice,f,Canada,11-04-2023,400.0
+Frank,FEMALE,India,11-04-2023,
+Ivy,f,india,10/04/2023,300.0
+Eva,male,Uk,01-02-2023,250.0
+Grace,m,india,11-04-2023,300.0
+Charlie,MALE,canada,,300.0
+Bob,MALE,canada,10/04/2023,250.0
+Hannah,m,Canada,01-02-2023,350.0
+Alice,male,UK,2023-04-10,
+Eva,female,Canada,11-04-2023,350.0
+Eva,female,canada,10/04/2023,350.0
+Hannah,male,U.S.A,11-04-2023,300.0
+,female,India,11-04-2023,300.0
+,m,Uk,2023/03/01,250.0
+Charlie,m,India,2023/03/01,
+Frank,female,India,"March 5, 2023",300.0
+Hannah,FEMALE,Canada,2023-04-10,
+Grace,f,U.S.A,"March 5, 2023",250.0
+Eva,f,USA,01-02-2023,250.0
+Frank,f,canada,2023/03/01,350.0
+Hannah,female,india,,250.0
+Grace,M,U.S.A,2023/03/01,250.0
+David,f,India,2023/03/01,400.0
+Charlie,male,india,"March 5, 2023",400.0
+Charlie,m,Uk,"March 5, 2023",250.0
+Grace,FEMALE,,11-04-2023,400.0
+Frank,male,India,01-02-2023,250.0
+Jack,F,U.S.A,"March 5, 2023",250.0
+Eva,FEMALE,U.S.A,11-04-2023,
+Hannah,male,Uk,01-02-2023,
+,m,India,2023/03/01,
+Hannah,male,USA,2023-04-10,
+Bob,FEMALE,Uk,11-04-2023,400.0
+Hannah,FEMALE,india,,400.0
+Grace,female,USA,,400.0
+Alice,F,U.S.A,"March 5, 2023",300.0
+Charlie,FEMALE,USA,11-04-2023,300.0
+Ivy,MALE,india,10/04/2023,350.0
+Ivy,FEMALE,,2023-04-10,300.0
+Jack,f,U.S.A,2023-04-10,
+Bob,M,Uk,10/04/2023,350.0
+Bob,f,USA,10/04/2023,300.0
+David,MALE,UK,11-04-2023,
+Charlie,male,Canada,"March 5, 2023",400.0
+Alice,FEMALE,india,"March 5, 2023",400.0
+Bob,F,U.S.A,10/04/2023,250.0
+Ivy,f,India,01-02-2023,400.0
+Jack,f,Uk,10/04/2023,400.0
+Hannah,m,UK,"March 5, 2023",
+David,F,UK,11-04-2023,
+Ivy,m,Canada,11-04-2023,
+Frank,F,india,2023-04-10,250.0
+Jack,MALE,U.S.A,"March 5, 2023",350.0
+David,,canada,2023/03/01,400.0
+Jack,MALE,Uk,2023-04-10,250.0
+Jack,MALE,canada,,400.0
+David,FEMALE,Uk,11-04-2023,250.0
+Grace,male,U.S.A,2023/03/01,350.0
+Jack,FEMALE,USA,2023-04-10,400.0
+Grace,f,U.S.A,11-04-2023,400.0
+Grace,female,USA,2023/03/01,
+Ivy,F,Canada,10/04/2023,400.0
+Eva,female,Uk,2023/03/01,350.0
+Alice,f,USA,10/04/2023,
+Eva,FEMALE,U.S.A,11-04-2023,350.0
+Frank,FEMALE,India,11-04-2023,250.0
+Grace,MALE,india,2023/03/01,350.0
+Alice,m,India,01-02-2023,400.0
+,M,canada,11-04-2023,350.0
+Ivy,female,USA,2023/03/01,400.0
+Hannah,female,U.S.A,2023/03/01,400.0
+Ivy,MALE,U.S.A,2023-04-10,300.0
+Bob,female,USA,2023-04-10,
+David,m,Uk,01-02-2023,400.0
+Eva,MALE,canada,"March 5, 2023",350.0
+Hannah,MALE,,2023-04-10,
+David,female,India,10/04/2023,300.0
+Grace,male,Canada,2023-04-10,250.0
+Alice,MALE,India,11-04-2023,300.0
+Ivy,male,USA,10/04/2023,
+Jack,FEMALE,Canada,2023/03/01,400.0
